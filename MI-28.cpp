@@ -8,7 +8,7 @@ using std::string;
 int main()
 {
         string oracion;
-        int cantidadPalabras,cantidadVocales, letrasPorPalabra,espacios,palabraMayor,siguientePalabra;
+        int cantidadPalabras,cantidadVocales, letrasPorPalabra,espacios,palabraMayor;
         espacios=0;
         palabraMayor=0;
         letrasPorPalabra=0;
